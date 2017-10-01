@@ -1,4 +1,4 @@
-FROM armhf/debian:jessie
+FROM debian:jessie
 LABEL maintainer "Linux-Fan <Ma_Sys.ma@web.de>"
 
 # Dockerfile and Supporting files to run megasync on armhf devices,
